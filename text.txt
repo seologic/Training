@@ -1,8 +1,12 @@
 Egor Anikey
 Egor Anikey
+<<<<<<< HEAD
 Egor Anikey
 Egor Anikey
 Egor Anikey
 Egor Anikey
 Egor Anikey
 Egor Anikey
+=======
+Egor Anikey v2
+>>>>>>> b05364c008e979e5f018ed01d5e28ee5e1037727
